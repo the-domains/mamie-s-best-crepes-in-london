@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MAMIE'S - Best Crepes in London]]></title>
+        <description><![CDATA[MAMIE'S - Best Crepes in London]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 18:13:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb0a4780-5b6f-4eb2-b9f6-0e7e53ebb74b.PNG">]]></description>
+            <link>undefined3ad1d85e-309d-4ddf-b03b-27a3313f7006/index.html</link>
+            <guid isPermaLink="false">3ad1d85e-309d-4ddf-b03b-27a3313f7006</guid>
+            <pubDate>Mon, 01 Feb 2016 18:11:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
