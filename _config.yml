@@ -1,7 +1,7 @@
 name: "MAMIE'S - Best Crepes in London"
 favicon: null
 layout_spectrum: 0.9319193030241877
-typography_spectrum: 0.147632708074525
+typography_spectrum: 0.47283
 title: ' Best Crepes in London'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#231f20'
+    - '#ffffff'
+    - '#b0afaf'
+    - '#5ca2c6'
+    - '#5c595a'
   brandStrength: 0.8806299213320017
   lightness: 0.5233415239490569
   saturation: 0.0672108440194279
